@@ -8,10 +8,16 @@ This web application is designed to convert audio files to text using the Stream
 
 
 2. Once the app is running, you can upload an audio file by clicking the "Browse" button.
+   
+![Screenshot (230)](https://github.com/athiyaman-m/Audio-To-Text-generation-webapp/assets/116479721/8670461d-3e78-45f5-8341-951a1a49e849)
 
-3. After the file is uploaded, click the "Convert to text" button to start the conversion process.
+3. After the file is uploaded, click the "Transcribe Audio" button to start the conversion process.
+   
+![Screenshot (231)](https://github.com/athiyaman-m/Audio-To-Text-generation-webapp/assets/116479721/bace868b-6d3b-4690-a040-78588ab1b456)
 
 4. The generated text will be displayed on the screen.
+   
+![Screenshot (232)](https://github.com/athiyaman-m/Audio-To-Text-generation-webapp/assets/116479721/f65b6ad7-41e8-4c4b-b037-66df8f466615)
 
 ## Prerequisites
 
