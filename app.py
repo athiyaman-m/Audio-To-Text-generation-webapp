@@ -1,9 +1,8 @@
 import streamlit as st
 import whisper
 
-st.title("Whisper App")
+st.title("Text To Audio Generation")
 
-# upload audio file with streamlit
 audio_file = st.file_uploader("Upload Audio", type=["wav", "mp3", "m4a"])
 
 model = whisper.load_model("base")
